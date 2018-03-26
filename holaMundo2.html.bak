@@ -6,5 +6,6 @@
   </head>
   <body onclick="alert('quita tus manos')">
     <p><strong>Hola Mundo</strong></p>
+    
   </body>
 </html>
